@@ -1,21 +1,30 @@
 # Convert SASS/SCSS to LESS
 
-### Step by Step
+> Convert SCSS (SASS) files to Less 
 
-Clone and NPM package
+## Prerequisites:
+
+	- NodeJS
+	- Git
+
+## Getting Started
+
+### 1. Clone and install NPM package
 ```
 git clone git@github.com:leduong/sass2less.git
 cd sass2less
 npm i
 ```
 
-Copy your file to "sass" then convert
+### 2. Copy your file to "sass" then convert
 ```
 npm start
 ```
 
-Check directory 'less'
+### 3. Check directory 'less'
 
+
+## Directory Structure
 
 ```txt
 .
