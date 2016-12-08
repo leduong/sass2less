@@ -1,0 +1,22 @@
+{
+  "name": "sass2less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "start": "./node_modules/.bin/grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "to",
+    "Less"
+  ],
+  "author": "Dang Duong <me@leduong.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-scss2less": "0.0.1"
+  }
+}
